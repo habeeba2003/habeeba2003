@@ -18,7 +18,7 @@ My primary programming language is Python, and I have experience working with ba
 
 ## 💻 Featured Projects
 
-1. Automated Deepfake Detection System
+****1. Automated Deepfake Detection System****
 
 A deep learning-based application that identifies manipulated images and videos using a CNN-LSTM architecture.
 
@@ -26,7 +26,8 @@ Tech Stack: Python, PyTorch, OpenCV, Flask
 
 [🔗 View Project](https://github.com/habeeba2003/Automated_Deepfake_Detection)
 
-2. Air Travel Timeliness Prediction
+
+****2. Air Travel Timeliness Prediction****
 
 A machine learning application that predicts flight delays and estimates delay duration using historical airline data.
 
@@ -34,7 +35,8 @@ Tech Stack: Python, XGBoost, Scikit-learn, Pandas, NumPy, Streamlit
 
 [🔗 View Project](https://github.com/habeeba2003/airline-delay-prediction)
 
-3. EventPulse
+
+****3. EventPulse****
 
 A web-based Event Management and RSVP application built to manage events and user registrations.
 
