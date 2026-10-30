@@ -6,7 +6,7 @@ I enjoy building practical applications, exploring new technologies, and continu
 
 My primary programming language is Python, and I have experience working with backend development, REST APIs, Machine Learning, Deep Learning, and Computer Vision. I'm also exploring C#, .NET, ASP.NET Core Blazor, and Generative AI to expand my software development skills.
 
-🛠️ Technical Skills
+****🛠️ Technical Skills****
 
 - Programming: Python, SQL
 - Web Technologies: HTML, CSS, JavaScript
