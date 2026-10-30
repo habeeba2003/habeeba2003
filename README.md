@@ -75,5 +75,4 @@ Tech Stack: C#, ASP.NET Core Blazor Server, Entity Framework Core, ASP.NET Ident
 
 ---
 
-
-- "Turning curiosity into code, and ideas into impact." 🌱
+"Turning curiosity into code, and ideas into impact." 🌱
