@@ -36,7 +36,16 @@ Tech Stack: Python, XGBoost, Scikit-learn, Pandas, NumPy, Streamlit
 [🔗 View Project](https://github.com/habeeba2003/airline-delay-prediction)
 
 
-****3. EventPulse****
+**3. Ticket Triage: AI Support Ticket Triage API**
+
+An API that triages customer support tickets. It finds similar past tickets with sentence embeddings, then uses an LLM to return a category, priority, summary and draft reply as validated JSON.
+
+Tech Stack: Python, FastAPI, Pydantic, sentence-transformers, NLTK, Groq API, pytest
+
+🔗 [View Project](https://github.com/habeeba2003/ticket_triage)
+
+
+****4. EventPulse****
 
 A web-based Event Management and RSVP application built to manage events and user registrations.
 
