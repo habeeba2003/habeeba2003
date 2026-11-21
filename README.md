@@ -10,11 +10,11 @@ My primary programming language is Python, and I have experience working with ba
 
 - Programming: Python, SQL
 - Web Technologies: HTML, CSS, JavaScript
-- Backend & APIs: Flask, REST APIs, JSON
-- AI/ML: Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, OpenCV
+- Backend & APIs: Flask, FastAPI, REST APIs, JSON, Pydantic
+- AI/ML: Machine Learning, Deep Learning, NLP, LLM Integration (Groq API), Sentence Embeddings, TensorFlow, PyTorch, Scikit-learn, OpenCV
 - Data Analysis: NumPy, Pandas, Matplotlib
 - Databases: MySQL, SQLite
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, VS Code, pytest
 
 ## 💻 Featured Projects
 
